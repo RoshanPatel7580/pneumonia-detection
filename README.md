@@ -1,0 +1,2 @@
+# pneumonia-detection
+Group project
